@@ -15,9 +15,9 @@ def test_addition():
     my_calculator = Calculator()
     assert my_calculator.addition(2, 3) == 5
 
-def test_fail_addition():
-    my_calculator = Calculator()
-    assert my_calculator.addition(3, 3) == 5
+# def test_fail_addition():
+#     my_calculator = Calculator()
+#     assert my_calculator.addition(3, 3) == 5
 
 def test_subtraction():
     my_calculator = Calculator()
