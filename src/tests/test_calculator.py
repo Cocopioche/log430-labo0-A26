@@ -30,4 +30,3 @@ def test_multiplication():
 def test_division():
     my_calculator = Calculator()
     assert my_calculator.division(10, 2) == 5
-#test commit comment
